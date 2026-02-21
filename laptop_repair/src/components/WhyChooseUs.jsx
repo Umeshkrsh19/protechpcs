@@ -11,7 +11,7 @@ export default function WhyChooseUs() {
         />
       </div>
       <div className="md:w-1/2 p-12 md:p-20 bg-white flex flex-col justify-center">
-        <h2 className="text-4xl font-bold text-gray-900 mb-6">Why Choose Us?</h2>
+        <h2 className="text-4xl font-bold text-gray-300 mb-6">Why Choose Us?</h2>
         <div className="flex gap-2 mb-8">
           <div className="w-2 h-2 bg-yellow-600 rotate-45"></div>
           <div className="w-2 h-2 bg-yellow-600 rotate-45"></div>

@@ -16,12 +16,15 @@ export default function LandingPage() {
     <div className="font-sans text-gray-800 antialiased">
       <Navbar />
       <Hero />
-      <EmergencyCall />
+     
       <WhyChooseUs />
-      <AboutUs />
+      <AboutUs /> 
+      <EmergencyCall />
       <Services />
       <AdditionalServices />
+       <EmergencyCall />
       <Pricing />
+      
       <VideoSection />
       <Team />
       <Maintenance />
