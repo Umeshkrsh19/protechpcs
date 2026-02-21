@@ -1,13 +1,19 @@
 export const laptopImages = [
   {
+    id: "new_hero",
+    url: "https://images.unsplash.com/photo-1539376248633-cf94fa8b7bd8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    alt: "Computer repair close up motherboard",
+    source: "Unsplash"
+  },
+  {
     id: "Bd7gNnWJBkU",
-    url: "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29tcHV0ZXJ8ZW58MHx8MHx8fDA%3D",
+    url: "https://plus.unsplash.com/premium_photo-1664301887532-328f07bb2c24?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     alt: "MacBook Pro turned on",
     source: "https://unsplash.com/photos/macbook-pro-turned-on-Bd7gNnWJBkU"
   },
   {
     id: "premium_photo-1681666713680",
-    url: "https://plus.unsplash.com/premium_photo-1681666713680-fb39c13070f3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29tcHV0ZXJ8ZW58MHx8MHx8fDA%3D",
+    url: "https://plus.unsplash.com/premium_photo-1726804906019-20ac68ddec1b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bGFwdG9wJTIwcmVwYWlyfGVufDB8fDB8fHww",
     alt: "Computer repair close up",
     source: "https://unsplash.com/photos/..."
   },
