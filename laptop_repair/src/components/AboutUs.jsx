@@ -3,7 +3,7 @@ import { laptopImages } from '../data/images';
 export default function AboutUs() {
   return (
     <section className="flex flex-col md:flex-row-reverse bg-gray-50" id="about">
-      <div className="md:w-1/2 h-[500px] md:h-auto relative">
+      <div className="md:w-1/2 h-[700px] relative">
         <img 
           src={laptopImages[2].url} 
           alt="About Us" 
